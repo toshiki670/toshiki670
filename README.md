@@ -8,5 +8,5 @@
   <img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=toshiki670' />
 </a>
 <a href='https://github.com/ryo-ma/github-profile-trophy'>
-  <img align='left' src='https://github-profile-trophy.vercel.app/?username=toshi670&column=3' />
+  <img align='left' src='https://github-profile-trophy.vercel.app/?username=toshiki670&column=3' />
 </a>
