@@ -1,3 +1,5 @@
+<a href="https://github.com/toshiki670/toshiki670/releases"><img alt="GitHub Releases" src="https://img.shields.io/github/v/tag/toshiki670/toshiki670?label=release&style=flat-square"></a>
+
 # Profile
 
 # Status
