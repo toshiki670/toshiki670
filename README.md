@@ -1,5 +1,6 @@
-<a href="https://github.com/toshiki670/toshiki670/releases"><img alt="GitHub Releases" src="https://img.shields.io/github/release-date/toshiki670/toshiki670?style=flat-square"></a>
+<a href="https://github.com/toshiki670/toshiki670/releases"><img alt="GitHub Release date" src="https://img.shields.io/github/release-date/toshiki670/toshiki670?style=flat-square"></a>
 <a href="https://github.com/toshiki670/toshiki670/releases"><img alt="GitHub Releases" src="https://img.shields.io/github/v/tag/toshiki670/toshiki670?label=release&style=flat-square"></a>
+<a href="https://github.com/toshiki670/toshiki670/releases"><img alt="GitHub followers" src="https://img.shields.io/github/followers/toshiki670?style=social"></a>
 
 # Profile
 
